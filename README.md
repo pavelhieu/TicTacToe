@@ -1,5 +1,5 @@
 # TicTacToe
-Tic tac toe in Qt
-Libor - Server, Klient
-Hieu  - UI
-Horst - QGraphicsView se hrou
+<p>Tic tac toe in Qt</p>
+<p>Libor - Server, Klient</p>
+<p>Hieu  - UI</p>
+<p>Horst - QGraphicsView se hrou</p>
