@@ -4,9 +4,9 @@
 <p>Hieu  - UI pro klienta</p>
 <p>Horst - QGraphicsView se hrou</p>
 
-názvy třídy        MyClass
-metody a proměnné  myMethod
-anglické názvy
+<p>názvy třídy        MyClass</p>
+<p>metody a proměnné  myMethod</p>
+<p>anglické názvy</p>
 
 
 
