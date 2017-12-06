@@ -6,7 +6,7 @@
 
 <p>názvy třídy        MyClass</p>
 <p>metody a proměnné  myMethod</p>
-<p>anglické názvy</p>
+<p>české názvy prosím</p>
 
 
 
